@@ -1,10 +1,11 @@
 {
   "name": "cs01-congdm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CS01: Blockchain Development on Ethereum with Solidity and Hardhat",
   "main": "dist/index.js",
   "files": [
-    "dist/abi/MerkleDistribution.json"
+    "dist/abi/MerkleDistribution.json",
+    "*"
   ],
   "scripts": {
     "compile": "hardhat compile",
